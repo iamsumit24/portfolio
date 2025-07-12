@@ -1,0 +1,33 @@
+# This is a placeholder for the resume PDF file
+# In a real implementation, you would place the actual PDF file here
+# For now, this serves as a placeholder to prevent 404 errors
+
+Sumit Tiwari - DevOps Engineer Resume
+=====================================
+
+Contact Information:
+- Email: sumittiwari.prof24@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sumittiwaridevops/
+- GitHub: https://github.com/iamsumit24
+- Location: Jabalpur, India
+
+Professional Summary:
+DevOps Engineer with expertise in CI/CD automation, cloud computing, and modern infrastructure solutions.
+
+Skills:
+- Cloud Platforms: AWS (EC2, S3, EKS)
+- Containerization: Docker, Kubernetes
+- CI/CD: Jenkins, ArgoCD
+- Infrastructure as Code: Terraform, Ansible
+- Programming: Python, Bash
+- Version Control: Git, GitHub
+- Operating Systems: Linux
+
+Projects:
+1. Real-time Cricket Score Tracker
+2. Cloud-Native Monitoring App
+
+Education:
+B.Tech in Electronics & Communication Engineering
+Global Nature Care Sangathan's Group of Institutions, Jabalpur
+2021-2025 (Pursuing)
