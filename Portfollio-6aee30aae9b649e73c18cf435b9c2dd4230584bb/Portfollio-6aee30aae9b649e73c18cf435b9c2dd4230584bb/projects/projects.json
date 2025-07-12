@@ -1,0 +1,65 @@
+[
+
+    {
+        "name": "Docker Controller",
+        "desc": "Docker Controller program with a Graphical User Interface (GUI) built using Flask API to create a web app. It allows users to manage Docker containers, images, volumes, and networks.",
+        "image": "./img/dockercontroller.png",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/priyam930/Docker-Automation",
+            "code": "https://github.com/priyam930/Docker-Automation"
+        }
+    },
+    
+    {
+        "name": "Car Price Prediction",
+        "desc": "Developed a machine learning model using linear regression to predict car prices based on key attributes, integrated into a Flask-based web app for user-friendly access.",
+        "image": "./img/car.png",
+        "category": "Machine Learning",
+        "links": {
+            "view": "https://github.com/priyam930/car_price_predictor",
+            "code": "https://github.com/priyam930/car_price_predictor"
+        }
+    },
+    {
+        "name": "AWS EC2 Instance Management using Hand Gestures",
+        "desc": "This project Uses OpenCV and cvzone's HandTrackingModule to control EC2 instances via hand gestures. ",
+        "image": "./img/awsmanager.jpg",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/priyam930/Ec2-Manage-Hand",
+            "code": "https://github.com/priyam930/Ec2-Manage-Hand"
+        }
+    },
+    {
+        "name": "Distance of Face from Camera",
+        "desc": "It demonstrates face detection and calculating the distance of a detected face from the camera.",
+        "image": "./img/distancefromcamera.jpg",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/priyam930/Face-Distance",
+            "code": "https://github.com/priyam930/Face-Distance"
+        }
+    },
+
+    {
+        "name": "Flipkart Product Scraping",
+        "desc": "It utilizes the requests library for making HTTP requests and the BeautifulSoup library for parsing HTML content. ",
+        "image": "./img/scapingtool.jpg",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/priyam930/Web-Scrapping-of-Flipkart-Website-we",
+            "code": "https://github.com/priyam930/Web-Scrapping-of-Flipkart-Website-we"
+        }
+    },
+    {
+        "name": "Flask  Dockerfile",
+        "desc": "This Dockerfile sets up a Flask web app server on redhat/ubi8 .",
+        "image": "./img/flask.png",
+        "category": "Basic Web",
+        "links": {
+            "view": "https://github.com/priyam930/Flask-Docker-Project",
+            "code": "https://github.com/priyam930/Flask-Docker-Project"
+        }
+    }
+]
